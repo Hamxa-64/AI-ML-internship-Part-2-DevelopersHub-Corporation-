@@ -1,6 +1,7 @@
 # AI-ML-internship-Part-2-DevelopersHub-Corporation-
 Assignment 2
- TASK 1: NEWS TOPIC CLASSIFIER USING BERT — REPORT
+TASK 1: NEWS TOPIC CLASSIFIER USING BERT — REPORT
+
 1. OBJECTIVE
 The objective of this task is to fine-tune a pre-trained BERT
 (bert-base-uncased) transformer model to classify news headlines
